@@ -1,0 +1,143 @@
+.bg-black{
+    background-color: #232323;
+}
+.bg-black2{
+    background-color: #333333;
+}
+.text-gray{
+    color: #959595;
+}
+.bg-orange{
+    background-color: #FFBA00;
+}
+.h-10{
+    height: 30px;
+}
+.disp-flex{
+    display: flex;
+    flex-direction: row;
+}
+.bg-gaz{
+    background: url("../images/petroci_three.jpg") no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+.bg-four{
+    background: url("../images/pic_four-960x750.jpg") no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.bg-anac{
+    background: url("../images/anac_three.jpg") no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+.bg-one{
+    background: url("../images/p_one_opa_three-960x562.jpg") no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+.bg-ci{
+    background: url("../images/ci_energies_three.jpg") no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+.bord-top-orange{
+    border-top: 20px solid #FA9000;
+}
+.abso{
+    position: absolute;
+    top: 30%;
+}
+
+.bord-orange{
+    border: 8px solid #FA9000;
+}
+.h-76{
+    height: 30vh;
+}
+.h-51{
+    height: 20vh;
+}
+.bg-slide1{
+    background: url("../images/slide_four.jpg") no-repeat center;
+    height: 70vh;
+}
+.bg-slide2{
+    background: url("../images/employee_m.jpg") no-repeat center;
+    height: 70vh;
+}
+.bg-slide3{
+    background: url("../images/slide.jpg") no-repeat center;
+    height: 70vh;
+}
+.ft-18{
+    font-size: 18px;
+}
+.ft-14{
+    font-size: 14px;
+}
+.org-bg{
+    background: url("../images/intro_img.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.savoir-bg{
+    background: url("../images/notre_savoir_faire_img.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.bg-form{
+    background: url("../images/formation_two-1200x480.jpg") no-repeat center;
+    background-size: cover;
+    height: 60vh;
+    border: 8px solid #232323;
+}
+.bg-form1{
+    background: url("../images/formation_two-1200x480.jpg") no-repeat center;
+    background-size: cover;
+    border: 8px solid #232323;
+    height: 60vh;
+    width: 60vh;
+}
+.bg-form2{
+    background: url("../images/formation_2.jpg") no-repeat center;
+    background-size: cover;
+    border: 8px solid #232323;
+}
+.bg-form3{
+    background: url("../images/formation_one.jpg") no-repeat center;
+    background-size: cover;
+    border: 8px solid #232323;
+}
+.bg-img{
+    background-color: #fff;
+    background-image: url("../images/pattern.png");
+    background-size: cover;
+}
+.pat{
+    background-color: #fff;
+    background-image: url("../images/17.png");
+    background-size: cover;
+}
+.stripe{
+    background: url("../images/stripes_5_b.png") repeat;
+    background-size: cover;
+}
+.text-green{
+    color: #7AD03A;
+}
+.bg-green{
+    background-color: #7AD03A;
+}
+.bg-blue{
+    background-color: #2991D6;
+}
+ul.list_check li{
+    list-style-type: none;
+    background: url("../images/list_check.png") no-repeat 20px 5px;
+    padding-left: 50px;
+}
+.bord-black{
+    border: 8px solid #333333;
+}
